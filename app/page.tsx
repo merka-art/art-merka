@@ -1,2 +1,3 @@
 
-import artmerka from "@/components/artmerka"; export default function page() { return <artmerka />; }
+import ArtMerka from "@/components/ArtMerka"; 
+export default function page() { return <ArtMerka />; }
