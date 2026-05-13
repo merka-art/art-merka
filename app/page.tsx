@@ -1,2 +1,5 @@
-import ArtMerka from "@/components/ArtMerka"; 
-export default function page() { return <ArtMerka />; }
+import ArtMerka from "./ArtMerka";
+
+export default function Page() {
+  return <ArtMerka />;
+}
