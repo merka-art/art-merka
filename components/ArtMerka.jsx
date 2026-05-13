@@ -1,3 +1,5 @@
+"use client";
+
 // ============================================================
 // ART MERKA — Luxury Digital Art Museum & Gallery
 // "Louvre Meets Tomorrow" — Ultra-Premium Landing Page
