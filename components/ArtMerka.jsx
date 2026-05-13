@@ -1,5 +1,8 @@
 "use client";
 
+import { useState, useEffect, useRef } from "react";
+import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
+
 // ============================================================
 // ART MERKA — Luxury Digital Art Museum & Gallery
 // "Louvre Meets Tomorrow" — Ultra-Premium Landing Page
