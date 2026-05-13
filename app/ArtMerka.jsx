@@ -69,9 +69,6 @@ const classicalGalleryData = [
   },
 ];
 
-// ─── REACT COMPONENT ─────────────────────────────────────────
-import { useState, useEffect, useRef } from "react";
-import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
 
 // ── Utility: fade-in variant ──
 const fadeUp = {
